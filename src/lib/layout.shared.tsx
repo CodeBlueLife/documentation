@@ -3,7 +3,7 @@ import type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared'
 import Image from 'next/image'
 import { ThemeToggle } from '@/components/theme-toggle'
 
-export const title = 'Venoxity Development'
+export const title = 'CodeBlueLife'
 
 export const logo = (
   <>
@@ -22,7 +22,7 @@ export const logo = (
 export const linkItems: LinkItemType[] = [
   {
     type: 'icon',
-    url: 'https://github.com/Venoxity-Development/documentation',
+    url: 'https://github.com/CodeBlueLife/documentation',
     text: 'Github',
     icon: (
       <svg role='img' viewBox='0 0 24 24' fill='currentColor'>
