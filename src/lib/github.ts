@@ -1,2 +1,2 @@
-export const owner = 'Venoxity-Development'
+export const owner = 'CodeBlueLife'
 export const repo = 'documentation'
