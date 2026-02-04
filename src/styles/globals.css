@@ -78,7 +78,7 @@
   }
 
   .dark {
-    --index-color: hsl(249deg, 100%, 82%);
+    --index-color: hsl(218deg, 91%, 60%);
     --changelog-color: var(--color-fd-foreground);
 
     --color-fd-primary: var(--index-color) !important;
