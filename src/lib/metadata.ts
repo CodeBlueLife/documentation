@@ -8,7 +8,7 @@ export function createMetadata(override: Metadata): Metadata {
     openGraph: {
       title: override.title ?? undefined,
       description: override.description ?? undefined,
-      url: 'https://codebluelife-docs.vercel.app',
+      url: 'https://cbl.venoxity.dev',
       images: '/banner.png',
       siteName: title,
       ...override.openGraph,
